@@ -8,3 +8,5 @@ Here is a script that checks if your VPN and Plex Media Server applications are 
 
 
 #IF YOU ARE USING A DIFFERENT BROWSER THAN CHROME, CHANGE IT TO YOUR APPROPRIATE BROWSER
+
+Written in BASH by: Joshua Irizarry
